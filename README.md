@@ -17,7 +17,6 @@ The application stores REST policy data in an in-memory store, provides CRUD ope
 - Springdoc OpenAPI / Swagger UI
 - Maven
 
-> Note: The project is implemented using Spring Boot 4.1.1 and Java 21.
 
 ## Project Structure
 
